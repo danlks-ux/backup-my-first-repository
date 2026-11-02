@@ -1,5 +1,0 @@
-Hello Im pushing this file from my terminal
-
-this is added via github
-
-another github line edited 
